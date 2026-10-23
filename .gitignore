@@ -2,3 +2,7 @@
 .DS_Store
 .freebuff/
 Thumbs.db
+
+# Internal-only files
+rule.md
+buildlog.md
